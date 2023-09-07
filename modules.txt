@@ -1,0 +1,7 @@
+tk
+pillow
+gputil
+tensorflow
+torch
+opencv-python
+yt-dlp
