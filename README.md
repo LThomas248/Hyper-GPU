@@ -19,10 +19,12 @@ Veuillez noter que cela ne peut que fonctionner sur Hyper-V, et il est fortement
 N'oubliez pas d'installer la dernière version disponible de Python pour Windows, et d'installer les modules inclus dans modules.txt avec PIP.
 
 # Interface graphique du programme
-![image](https://github.com/LThomas248/Hyper-GPU/assets/83450517/023e1335-17bf-42cd-8d3f-5945ac121e61)
+![image](https://github.com/LThomas248/Hyper-GPU/assets/83450517/8a320602-7b54-4290-9ddf-b38413ac9a61)
+
 
 # Séléction graphique des machines virtuelles Hyper-V
-![image](https://github.com/LThomas248/Hyper-GPU/assets/83450517/7c4dc48c-ff61-453d-bbae-5caf4a00b8b9)
+![image](https://github.com/LThomas248/Hyper-GPU/assets/83450517/c63b0e55-1f82-4f46-bd60-170b9c7c4130)
+
 
 Veuillez comprendre que ce projet ne vient avec aucune garantie de fonction parfaite.
 
